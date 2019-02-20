@@ -1,11 +1,11 @@
 
 ## Welcome to the App Mining repo
 
-App Mining represents a new model for funding development of apps, allowing small teams to bootstrap, potentially without relying on ads or venture capital. App Mining gives out developer rewards to high quality applications built on the Blockstack platform. 
+App Mining represents a new model for incentivizing development of apps, allowing small teams to bootstrap, potentially without relying on ads or venture capital. App Mining gives out developer rewards to high quality applications built on the Blockstack platform. 
 
 Think of it as something similar to an Apple App Store but apps are ranked in a decentralized semi-automatic way. In the long run the goal is to build an App Store with no company like Apple in the middle. Developer rewards are given out monthly based on the app ranking for the month.
 
-This is the repository for on-going development of the App Mining program and its associated technologies. Before continuing, we suggest you familiarize yourself with the program:
+The App Mining program is in a pilot stage right now. This is the repository for on-going development of the App Mining program and its associated technologies. Before continuing, we suggest you familiarize yourself with the program:
 
 
 - Visit the [App Mining website](https://app.co/mining)
@@ -13,7 +13,7 @@ This is the repository for on-going development of the App Mining program and it
 - Review the original [launch of the App Mining program](https://blog.blockstack.org/app-mining-game-theory-algorithm-design/)
 - Review the App Mining results for [December 2018](https://app.co/mining/december-2018) and [January 2018](https://app.co/mining/january-2019)
 
-Given the early stages of the program, we believe it is best to avoid automating ranking and payment mechanisms until we can validate key assumptions. Instead, we will, as a community, validate assumptions and field-test ranking mechanisms, during a pilot phase, as App Mining evolves. 
+Given the early stages of the program, we believe it is best to avoid automating ranking and payment mechanisms until we can validate key assumptions. Instead, we will, as a community, validate assumptions and field-test ranking mechanisms, during the pilot phase, as App Mining evolves.
 
 The current ranking process requires formalizing relationships with external app reviewers: Currently Product Hunt, Democracy Earth, and TryMyUI. More App Reviewers should be periodically added to further improve the quality of the apps and attract the right kind of use cases to our ecosystem. A mechanism for adding/replacing App Reviewers that creates value and is less labor intensive is an open discussion item.
 
@@ -61,4 +61,4 @@ App Reviewer partners are encouraged, but not required to, monitor the repo and 
 
 ## Legal considerations
 
-The App Mining program is operated by Blockstack PBC and is subject to various applicable laws and regulations. Even if a process change is technically possible, it might not legally possible due to regulatory conditions. Please see [[link]](https://blog.blockstack.org/introducing-app-mining/) for a list of disclosures.
+The App Mining program is operated by Blockstack PBC and is subject to various applicable laws and regulations. Even if a process change is technically possible, it might not legally possible due to regulatory conditions. Please see [this link](https://blog.blockstack.org/introducing-app-mining/) for a list of disclosures.
