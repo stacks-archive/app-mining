@@ -1,7 +1,7 @@
 
 ## Welcome to the App Mining repo
 
-App Mining represents a new model for incentivizing development of apps, allowing small teams to bootstrap, potentially without relying on ads or venture capital. App Mining gives out developer rewards to high quality applications built on the Blockstack platform. 
+App Mining represents a new model for incentivizing development of apps, allowing small teams to bootstrap, potentially without relying on ads or venture capital. App Mining gives out developer rewards to high quality applications built on the Blockstack platform. (See below for definition of "high quality applications")
 
 Think of it as something similar to an Apple App Store but apps are ranked in a decentralized semi-automatic way. In the long run the goal is to build an App Store with no company like Apple in the middle. Developer rewards are given out monthly based on the app ranking for the month.
 
@@ -34,7 +34,7 @@ Below are some long term goals. We invite you to create issues and propose chang
 
 #### Ecosystem activity to be encouraged: 
 
-- Increasing the quantity and quality on App.co. 
+- Increasing the quantity and quality on App.co.
 - Expanding consumer awareness of Blockstack ID and decentralized auth/storage. 
 - Discovery and distribution of apps to users that want them. 
 - Internet users increasingly owning and controlling their identity, data, and money. 
@@ -62,3 +62,12 @@ App Reviewer partners are encouraged, but not required to, monitor the repo and 
 ## Legal considerations
 
 The App Mining program is operated by Blockstack PBC and is subject to various applicable laws and regulations. Even if a process change is technically possible, it might not legally possible due to regulatory conditions. Please see [this link](https://blog.blockstack.org/introducing-app-mining/) for a list of disclosures.
+
+## Definition of high quality applications
+The better application perform in the following areas the higher the quality of the application in the sense of the app mining program
+* being a good Blockstack citizen and adhering to the [Principles of Blockstack apps](https://docs.blockstack.org/develop/dapp_principles.html)
+* being innovative and distinct from other applications
+* being easy to use for first-time users
+* being attractive to investors
+
+
