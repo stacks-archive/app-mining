@@ -55,7 +55,7 @@ Currently, third party App Reviewer partners are:
 
 - Product Hunt
 - Democracy Earth
-- TryMyUI
+- [TryMyUI](app-reviewers/tmui.md)
 
 App Reviewer partners are encouraged, but not required to, monitor the repo and participate in discussions. The community is encouraged to propose new App Reviewers that increase the quality and robustness of App Mining.
 
