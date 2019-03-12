@@ -63,11 +63,12 @@ App Reviewer partners are encouraged, but not required to, monitor the repo and 
 
 The App Mining program is operated by Blockstack PBC and is subject to various applicable laws and regulations. Even if a process change is technically possible, it might not legally possible due to regulatory conditions. Please see [this link](https://blog.blockstack.org/introducing-app-mining/) for a list of disclosures.
 
-## Definition of high quality applications
-The better application perform in the following areas the higher the quality of the application in the sense of the app mining program
-* being a good Blockstack citizen and adhering to the [Principles of Blockstack apps](https://docs.blockstack.org/develop/dapp_principles.html)
-* being innovative and distinct from other applications
-* being easy to use for first-time users
-* being attractive to investors
+## What is a high quality application?
 
+A high quality application in the App Mining program performs well in these areas:
+
+* adheres to the [Principles of Blockstack apps](https://docs.blockstack.org/develop/dapp_principles.html)
+* attracts users using thoughtful in both features and visual design
+* supports first-time users through good user interaction (UX) and education 
+* communicates a marketing plan and feature roadmap that attracts investors
 
