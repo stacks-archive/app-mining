@@ -1,0 +1,106 @@
+## Introduction
+
+The purpose of this document is to be transparent about the changes that have been made to the [App Mining program](https://app.co/mining) since its launch. The program is a work in progress, and we encourage everyone to participate in the evolution of App Mining by discussing and opening [issues](https://github.com/blockstack/app-mining/issues) in our GitHub.
+
+### Format of the Changelog
+
+Because App Mining operates in monthly cycles, we have broken down the changelog into monthly groups. Each month has three sections:
+
+- **Operational Changes:** Updates that have made an actual change in the program. This might be new documentation, changes to payout structure, changes to reviewers, changes to ranking calculations, etc.
+- **Dry Run:** These are changes that have been made, but will not have an effect in that month’s final rankings. When we make a big change, like adding a new reviewer, we usually run a “dry run” so that we can see what the results would be, without actually making them final. This allows the community to evaluate the changes before they’re finalized.
+- **Discussions Finalized:** These are largely discussions made from GitHub issues that have been debated, but no actual operational changes were made. These discussions all influence potential decisions in the future of the program, but will not be actualized at this time.
+
+## Changelog by Month
+
+### April 2019
+
+- Operational Changes:
+  - Adding our digital rights reviewer into final scores
+  - Decrease weight of memory function [#69](https://github.com/blockstack/app-mining/issues/69)
+    - **Result:** The memory function has been decreased from 45% to 25%. You can read more about the memory function and algorithm in this [blog post](https://blog.blockstack.org/app-mining-game-theory-algorithm-design/).
+  - Implement community audit [#50](https://github.com/blockstack/app-mining/issues/50)
+    - **Result:** Blockstack PBC will share the App Mining Results with App Miners via email two business days before implementing payouts for full community audit.
+- Dry Run:
+  - Product Hunt to change ranking input to number of upvotes that month [#78](https://github.com/blockstack/app-mining/issues/78)
+    - **Result:** Decided to run a test on this for the month of April (not to be included on Rankings).
+  - Adding a new awareness app reviewer with Awario
+- Discussions Finalized:
+  - Include open source in ranking criteria [#42](https://github.com/blockstack/app-mining/issues/42)
+    - **Result:** Digital Rights App Reviewer can consider adding to their ranking.
+
+### March 2019
+
+- Operational Changes:
+  - Publish guide on best practices for App Mining [#21](https://github.com/blockstack/app-mining/issues/21)
+    - **Result:** [Published the guide](https://docs.blockstack.org/community/app-miners-guide.html) and shared with App Miners.
+  - Hello-World Apps Not Qualifying for App Mining [#34](https://github.com/blockstack/app-mining/issues/34)
+    - **Result:** Clarified in our [docs](https://github.com/blockstack/app-mining/issues/34) that Test Flight apps, hello-world apps, and apps created through Blockstack tutorials (e.g. animal kingdom apps) do not qualify for App Mining.
+  - Digital Rights Reviewer: Evaluation of Indexers [#58](https://github.com/blockstack/app-mining/issues/58)
+    - **Result:** Digital Rights Reviewer will not dock points for using gaia with indexers.
+  - Removed Product Hunt’s “Team Score” from app rankings
+  - Only calculate Product Hunt’s “Community Score” from credible upvotes
+  - Announce Awario [#57](https://github.com/blockstack/app-mining/issues/57)
+    - **Result:** Awario is officially an app reviewer! Full details in [announcement](https://blog.blockstack.org/introducing-awario-app-reviewer/).
+- Dry Run:
+  - Shipped v1 of Digital Rights Reviewer [#8](https://github.com/blockstack/app-mining/issues/8) also [#56](https://github.com/blockstack/app-mining/issues/56)
+    - **Result:** [Announced](https://blog.blockstack.org/introducing-new-internet-labs-the-digital-rights-reviewer-for-app-mining/) New Internet Labs as digital rights reviewer.
+- Discussions Finalized:
+  - App Miners can submit more than one app for app mining [#39](https://github.com/blockstack/app-mining/issues/39)
+    - **Result:** Yes, App Miners can continue to submit more than one app per person/team.
+  - Reward Apps that solve the same problem only once [#37](https://github.com/blockstack/app-mining/issues/37)
+    - **Result:** Issue closed in favor of free-reign and development. There are issues with the complexity around accurately sorting and comparing apps.
+  - App Mining Rules for Hardware Apps [#35](https://github.com/blockstack/app-mining/issues/35)
+    - **Result:** Determined hardware apps are eligible but in some cases cannot be reviewed with the same methodology. Revised the review methodology so that the app is neither penalized nor rewarded for exclusion from being reviewed and updated the [FAQ](https://blog.blockstack.org/free-blockchain-application-ideas/).
+  - TryMyUI assessment of App Flow [#52](https://github.com/blockstack/app-mining/issues/52)
+    - **Result:** Apps need to be designed for app users who do not know anything about Blockstack. Every app is in the same boat on the assessment.
+  - Product Hunt feedback on reviews: [#3](https://github.com/blockstack/app-mining/issues/3) and [#55](https://github.com/blockstack/app-mining/issues/55)
+    - **Result:** Product Hunt added feedback for new apps the month of February. That led to a larger decision of removing the internal product hunt scoring component.
+  - TryMyUI to focus on UX of app vs. onboarding [#71](https://github.com/blockstack/app-mining/issues/71)
+    - **Result:** Confirmed with TryMyUI that tests are reviewed and audited. App developers will be tested on their onboarding flow as part of this.
+  - Blockstack PBC employees helping Apps [#48](https://github.com/blockstack/app-mining/issues/48)
+    - **Result:** Discussed, no real problem with this yet and many open questions. Closed until it needs to be readdressed.
+  - Apps awarded that do not show active product development [#64](https://github.com/blockstack/app-mining/issues/64)
+    - **Result:** Discussed, and concluded that judging on product development was subjective and not always a sign of good progress.
+  - Product Hunt score only rewards a good launch, not quality over time [#73](https://github.com/blockstack/app-mining/issues/73)
+    - **Result:** Product Hunt scores will decay over time. Apps can be rehunted as well with new releases. We will also include a score based on the change in your app’s upvotes from month to month.
+
+### February 2019
+
+- Operational Changes:
+  - Publish App Mining Readme [#29](https://github.com/blockstack/app-mining/issues/29)
+    - **Result:** Published a [first draft](https://github.com/blockstack/app-mining/blob/master/README.md).
+  - Add Product Hunt Process Info and Contact Email [#20](https://github.com/blockstack/app-mining/issues/20)
+    - **Result:** [A](https://github.com/blockstack/app-mining/issues/20)[dded](https://github.com/blockstack/app-mining/issues/20) to App Mining FAQ.
+  - Clear App Mining registration deadlines/timelines [#22](https://github.com/blockstack/app-mining/issues/22)
+    - **Result:** Added a [timeline](https://docs.blockstack.org/community/app-miners-guide.html) and calendar to App Mining FAQ.
+  - Add FAQ for Investors on Democracy Earth [#19](https://github.com/blockstack/app-mining/issues/19)
+    - **Result:** [P](https://docs.blockstack.org/develop/vote-blockstack.html)[ublished docs](https://docs.blockstack.org/develop/vote-blockstack.html) on the Democracy Earth voting process.
+  - TryMyUI Testing Methodology for Mobile Apps [#16](https://github.com/blockstack/app-mining/issues/16)
+    - **Result:** Apps that support both Android and iOS receive 4 tests of each environment..
+  - TryMyUI Instructions for Mobile Apps [#15](https://github.com/blockstack/app-mining/issues/15)
+    - **Result:** Confirmed that Android apps are able to direct TryMyUI testers to their app homepage instead of the Android Play Store. Cannot be solved on iOS, so TryMyUI testers are sent directly to the app page in the Apple app store.
+  - Ensure that no apps can purchase feature position on PH [#4](https://github.com/blockstack/app-mining/issues/4)
+    - **Result:** PH has confirmed that they are blacklisting the apps in App Mining from purchasing this feature. It is still manual, so App Miners please flag if they are seeing otherwise.
+  - TryMyUI instructions improved: [#2](https://github.com/blockstack/app-mining/issues/2)
+    - **Result:** Shipped new instructions that are less biased toward certain app behaviors.
+- Discussions Finalized:
+  - Reference Principles of Blockstack apps [#38](https://github.com/blockstack/app-mining/issues/38)
+    - **Result:** Closed in favor of Digital Rights Reviewer partnership.
+  - Criteria for Democracy Earth voting to be based on stage of product [#54](https://github.com/blockstack/app-mining/issues/54)
+    - **Result:** Discussed, agreed that there is room for improvement in the impact of voters and apps but that this specific change was not desired.
+
+### January 2018
+
+- Began sharing full results publicly as a spreadsheet, so you can look at calculations and audit results
+- Added TryMyUI as an app reviewer, with app developers getting access to user testing videos.
+
+### December 2018
+
+- Moved to \$100,000 for total amount of payouts
+- Ran an internal dry run with TryMyUI to evaluate adding them as a new reviewer
+
+### Alpha run (September 2018)
+
+- Added Product Hunt as an app reviewer
+- Added democracy earth as an app reviewer
+- Started the total amount of payouts as \$25,000
