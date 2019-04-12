@@ -23,10 +23,16 @@ Because App Mining operates in monthly cycles, we have broken down the changelog
 - Dry Run:
   - Product Hunt to change ranking input to number of upvotes that month [#78](https://github.com/blockstack/app-mining/issues/78)
     - **Result:** Decided to run a test on this for the month of April (not to be included on Rankings).
-  - Adding a new awareness app reviewer with Awario
+  - Adding a new awareness app reviewer with Awario [#30](https://github.com/blockstack/app-mining/issues/30)
 - Discussions Finalized:
   - Include open source in ranking criteria [#42](https://github.com/blockstack/app-mining/issues/42)
     - **Result:** Digital Rights App Reviewer can consider adding to their ranking.
+  - Digital Rights Reviewer Criteria [#79](https://github.com/blockstack/app-mining/issues/79)
+    - **Result:** Shared reviewer scoring [pdf](https://github.com/blockstack/app-mining/blob/master/DigitalRightsAuthScoringCriteria.pdf). 
+  - Gaia treatment by Digital Rights App Reviewer [#59](https://github.com/blockstack/app-mining/issues/59)  
+    - **Result:** Digital Rights App Reviewer set up a custom gaia hub so that mobile apps are treated fairly.
+  - Digital Rights App Reviewer Authentication Assesment [#60](https://github.com/blockstack/app-mining/issues/60)  
+      - **Result:** Digital rights reviewer will not provide an exact testing environment, but will test various environments changing month to month. Review will be conducted on the current public release of mac, windows, ios or android with either the default browser on the platform or the current release of chrome or firefox. If your app fails this test, by definition you're not eligible for App Mining since your app does not have working Blockstack auth. For April App Mining, the Digital Rights reviewer will test all apps, then notify all the apps that fail via email. Then 48 hours later, the failing apps will be retested. Only then will they be disqualified for the April cohort. We may reevaluate if needed. 
 
 ### March 2019
 
