@@ -15,11 +15,11 @@ Because App Mining operates in monthly cycles, we have broken down the changelog
 ### April 2019
 
 - Operational Changes:
-  - Adding our digital rights reviewer into final scores
+  - Adding our digital rights reviewer into final scores. 
   - Decrease weight of memory function [#69](https://github.com/blockstack/app-mining/issues/69)
     - **Result:** The memory function has been decreased from 45% to 25%. You can read more about the memory function and algorithm in this [blog post](https://blog.blockstack.org/app-mining-game-theory-algorithm-design/).
   - Implement community audit [#50](https://github.com/blockstack/app-mining/issues/50)
-    - **Result:** Blockstack PBC will share the App Mining Results with App Miners via email two business days before implementing payouts for full community audit.
+    - **Result:** Blockstack PBC will share the App Mining Results with App Miners via email two business days before implementing payouts for full community audit.  
 - Dry Run:
   - Product Hunt to change ranking input to number of upvotes that month [#78](https://github.com/blockstack/app-mining/issues/78)
     - **Result:** Decided to run a test on this for the month of April (not to be included on Rankings).
@@ -29,6 +29,8 @@ Because App Mining operates in monthly cycles, we have broken down the changelog
     - **Result:** Digital Rights App Reviewer can consider adding to their ranking.
   - Digital Rights Reviewer Criteria [#79](https://github.com/blockstack/app-mining/issues/79)
     - **Result:** Shared reviewer scoring [pdf](https://github.com/blockstack/app-mining/blob/master/DigitalRightsAuthScoringCriteria.pdf). 
+  - Digital Rights Reviewer Score Format [#83](https://github.com/blockstack/app-mining/issues/83). 
+    - **Result:** Apps are rated in consecutive integer format.
   - Gaia treatment by Digital Rights App Reviewer [#59](https://github.com/blockstack/app-mining/issues/59)  
     - **Result:** Digital Rights App Reviewer set up a custom gaia hub so that mobile apps are treated fairly.
   - Digital Rights App Reviewer Authentication Assesment [#60](https://github.com/blockstack/app-mining/issues/60)  
