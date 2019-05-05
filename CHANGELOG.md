@@ -12,6 +12,15 @@ Because App Mining operates in monthly cycles, we have broken down the changelog
 
 ## Changelog by Month
 
+### May 2019
+
+- Operational Changes:
+  - TryMyUI Audiences [#1](https://github.com/blockstack/app-mining/issues/1)  
+    - **Result:** App Miners have the option to add product based audience filters to their TryMyUI testing. 
+  - Pause Democracy Earth as an App Reviewer [#92](https://github.com/blockstack/app-mining/issues/92) 
+    - **Result:** Democracy Earth has been paused as an app reviewer and will not be included in May's ranking or moving forward until further notice. 
+    
+
 ### April 2019
 
 - Operational Changes:
