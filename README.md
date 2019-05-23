@@ -55,7 +55,6 @@ Below are some long term goals. We invite you to create issues and propose chang
 Currently, third party App Reviewer partners are:
 
 - [Product Hunt](https://blog.producthunt.com/only-the-best-dapps-were-joining-blockstack-s-app-reviewer-program-%EF%B8%8F-6085bea0f501)
-- [Democracy Earth](https://words.democracy.earth/democratic-app-ranking-democracy-earth-to-represent-blockstack-community-vote-on-app-mining-7ec8360bdc30)
 - [TryMyUI](https://www.trymyui.com/blog/2019/01/09/trymyui-partners-with-blockstack-to-rate-blockchain-based-apps/)
 - [Awario](https://blog.blockstack.org/introducing-awario-app-reviewer/)
 - [New Internet Labs](https://blog.blockstack.org/introducing-new-internet-labs-the-digital-rights-reviewer-for-app-mining/)
