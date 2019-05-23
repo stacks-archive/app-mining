@@ -23,6 +23,8 @@ Because App Mining operates in monthly cycles, we have broken down the changelog
     - **Result:** All apps must be https secure and have a dedicated domain in order to be eligible for App Mining. Apps that were not https secure or who lacked a dedicated domain were emailed about the change starting in June.  
   - Awario results to be shared at the start of each audit period [#108](https://github.com/blockstack/app-mining/issues/108) 
     - **Result:** The Awario results of the previous month will be emailed to app miners at the start of each audit period until App Miners are able to login to explore the data on Awario directly. 
+  - TryMyUI Tests Upgraded [#90](https://github.com/blockstack/app-mining/issues/90)
+    - **Result:** App Miners receive 10 TryMyUI testing videos. The highest and lowest scores get dropped. 
 - Discussions Finalized:
   - All apps reviewed by all reviewers [#91](https://github.com/blockstack/app-mining/issues/91)
     - **Result:** All apps must be reviewed by all app reviewers. It will be up to the discretion of the app reviewers how they will review unconventional apps. 
