@@ -18,10 +18,15 @@ Because App Mining operates in monthly cycles, we have broken down the changelog
   - TryMyUI Audiences [#1](https://github.com/blockstack/app-mining/issues/1)  
     - **Result:** App Miners have the option to add product based audience filters to their TryMyUI testing. 
   - Pause Democracy Earth as an App Reviewer [#92](https://github.com/blockstack/app-mining/issues/92) 
-    - **Result:** Democracy Earth has been paused as an app reviewer and will not be included in May's ranking or moving forward until further notice. 
+    - **Result:** Democracy Earth has been paused as an app reviewer and will not be included in May's ranking or moving forward until further notice.
+  - All apps must be https secure and have a dedicated domain [#105](https://github.com/blockstack/app-mining/issues/105)
+    - **Result:** All apps must be https secure and have a dedicated domain in order to be eligible for App Mining. Apps that were not https secure or who lacked a dedicated domain were emailed about the change starting in June.  
+  - Awario results to be shared at the start of each audit period [#108](https://github.com/blockstack/app-mining/issues/108) 
+    - **Result:** The Awario results of the previous month will be emailed to app miners at the start of each audit period until App Miners are able to login to explore the data on Awario directly. 
 - Discussions Finalized:
-  - All apps reviewed by all reviewers[#91](https://github.com/blockstack/app-mining/issues/91)
+  - All apps reviewed by all reviewers [#91](https://github.com/blockstack/app-mining/issues/91)
     - **Result:** All apps must be reviewed by all app reviewers. It will be up to the discretion of the app reviewers how they will review unconventional apps. 
+
     
 
 ### April 2019
