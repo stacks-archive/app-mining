@@ -25,9 +25,15 @@ Because App Mining operates in monthly cycles, we have broken down the changelog
     - **Result:** The Awario results of the previous month will be emailed to app miners at the start of each audit period until App Miners are able to login to explore the data on Awario directly. 
   - TryMyUI Tests Upgraded [#90](https://github.com/blockstack/app-mining/issues/90)
     - **Result:** App Miners receive 10 TryMyUI testing videos. The highest and lowest scores get dropped. 
+  - Communicate Important Information via Email [#110](https://github.com/blockstack/app-mining/issues/110)
+    - **Result:** App Miners will receive an email at the start of each month with that month's scoring criteria. 
+
 - Discussions Finalized:
   - All apps reviewed by all reviewers [#91](https://github.com/blockstack/app-mining/issues/91)
     - **Result:** All apps must be reviewed by all app reviewers. It will be up to the discretion of the app reviewers how they will review unconventional apps. 
+  - Awario scoring to continue as is [#109](https://github.com/blockstack/app-mining/issues/109) 
+    - **Result:** All apps will continue to receive Awario scores from all publications found, both centralized and decentralized. 
+ 
 
     
 
