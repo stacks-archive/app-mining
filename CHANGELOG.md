@@ -17,6 +17,8 @@ Because App Mining operates in monthly cycles, we have broken down the changelog
 - Operational Changes:
   - TryMyUI Audiences [#1](https://github.com/blockstack/app-mining/issues/1)  
     - **Result:** App Miners have the option to add product based audience filters to their TryMyUI testing. 
+  - Product Hunt Scoring [106](https://github.com/blockstack/app-mining/issues/106) 
+    - **Result:** Implementing a Decay score for Product Hunt ranking: the new score is your 'total upvotes' score, but with a monthly decay function of 90%. So if you have a total of 100 upvotes, and you launched 1 month ago, you have 90 total upvotes. The final score is total_credible_upvotes*0.9^months_since_launched.
   - Pause Democracy Earth as an App Reviewer [#92](https://github.com/blockstack/app-mining/issues/92) 
     - **Result:** Democracy Earth has been paused as an app reviewer and will not be included in May's ranking or moving forward until further notice.
   - All apps must be https secure and have a dedicated domain [#105](https://github.com/blockstack/app-mining/issues/105)
@@ -33,6 +35,8 @@ Because App Mining operates in monthly cycles, we have broken down the changelog
     - **Result:** All apps must be reviewed by all app reviewers. It will be up to the discretion of the app reviewers how they will review unconventional apps. 
   - Awario scoring to continue as is [#109](https://github.com/blockstack/app-mining/issues/109) 
     - **Result:** All apps will continue to receive Awario scores from all publications found, both centralized and decentralized. 
+  - Blockstack PBC to exclude clone apps from App Mining [#113](https://github.com/blockstack/app-mining/issues/113) 
+    - **Result:** It is at the discretion of Blockstack PBC to identify an app as a clone (not having significant upgrades) and can exclude clone apps from registering for the program. 
  
 
     
