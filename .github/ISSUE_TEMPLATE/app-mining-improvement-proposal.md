@@ -16,7 +16,7 @@ This does not accelerate the adoption of high quality apps that preserve individ
 **What is the explicit recommendation you’re looking to propose?**
 A clear and concise description of the improvement to be made, typically an App Mining process change or an App Reviewer change… 
 
-** Describe your long term considerations in proposing this change. Please include the ways you can predict this recommendation could go wrong and possible ways mitigate.**
+**Describe your long term considerations in proposing this change. Please include the ways you can predict this recommendation could go wrong and possible ways mitigate.**
 A clear and concise description of the thought experiment you’ve gone through to roll this out: please keep in mind it may need to scale and cannot be easily gamed. Please list any remaining open questions to be solved in proposing the change, if any. 
 
 **Additional context**
