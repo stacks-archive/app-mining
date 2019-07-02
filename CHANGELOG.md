@@ -12,6 +12,12 @@ Because App Mining operates in monthly cycles, we have broken down the changelog
 
 ## Changelog by Month
 
+### June 2019 
+- Operational Changes:
+
+  - Audit and Payout Schedule [#116](https://github.com/blockstack/app-mining/issues/116)  
+    - **Result:** Extending the app mining audit period to the end of the month, payouts are now at the end of the month. (E.g. for July 2019, payouts will be on the 31st.)
+
 ### May 2019
 
 - Operational Changes:
