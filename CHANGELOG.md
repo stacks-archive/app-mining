@@ -12,6 +12,15 @@ Because App Mining operates in monthly cycles, we have broken down the changelog
 
 ## Changelog by Month
 
+### July 2019 
+- Operational Changes:
+
+  - Audit Results Changelog[#124](https://github.com/blockstack/app-mining/issues/124) 
+      - **Result:** Changes to the App Mining audit results can be found [here](https://docs.google.com/spreadsheets/d/1WrsyBdrqapZN-fv5VeD8SgU15CVnqAmnKVUHUMYiNkY/edit#gid=0). 
+
+
+
+
 ### June 2019 
 - Operational Changes:
 
