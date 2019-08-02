@@ -1,3 +1,4 @@
+[Etherscan.io 31/07/2019 21:36:28] I, hereby verify that I am the owner/creator of the address [0x85467E4CB23Ffb43F37A77961Ae3c409f6e6a01d
 ---
 name: App Mining Improvement Proposal
 about: 'Create a report to help us improve. '
