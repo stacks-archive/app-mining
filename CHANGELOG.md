@@ -16,7 +16,7 @@ Because App Mining operates in monthly cycles, we have broken down the changelog
 - Operational Changes: 
 
   - Payout Schedule [#116](https://github.com/blockstack/app-mining/issues/116) 
-      - **Result:** Extending the app mining audit period to the end of the month, payouts are now 7 days following the start of the audit period. (E.g. for August 2019, payouts will be on the 22nd.)
+      - **Result:** Changed the app mining audit period to last through a week after the 15th (or the next weekday). Payouts are now 7 days following the start of the audit period. (E.g. for August 2019, payouts will be on the 22nd.)
   -  Audit Period Changes and Payout Criteria [#126](https://github.com/blockstack/app-mining/issues/126) 
      - **Result:** With an extended audit period, app founders must report necessary changes within the audit period. Outside of the audit period, if an error is found, the error should be updated but no difference in payment will be made unless the error was egregious at the discretion of Blockstack PBC.  
      
