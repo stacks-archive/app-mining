@@ -12,6 +12,16 @@ Because App Mining operates in monthly cycles, we have broken down the changelog
 
 ## Changelog by Month
 
+## August 2019 
+- Operational Changes: 
+
+  - Payout Schedule [#116](https://github.com/blockstack/app-mining/issues/116) 
+      - **Result:** Extending the app mining audit period to the end of the month, payouts are now 7 days following the start of the audit period. (E.g. for August 2019, payouts will be on the 22nd.)
+  -  Audit Period Changes and Payout Criteria [#126](https://github.com/blockstack/app-mining/issues/126) 
+     - **Result:** With an extended audit period, app founders must report necessary changes within the audit period. Outside of the audit period, if an error is found, the error should be updated but no difference in payment will be made unless the error was egregious at the discretion of Blockstack PBC.  
+     
+  
+
 ### July 2019 
 - Operational Changes:
 
@@ -25,14 +35,17 @@ Because App Mining operates in monthly cycles, we have broken down the changelog
 - Operational Changes:
 
   - Audit and Payout Schedule [#116](https://github.com/blockstack/app-mining/issues/116)  
-    - **Result:** Extending the app mining audit period to the end of the month, payouts are now at the end of the month. (E.g. for July 2019, payouts will be on the 31st.)
+    - **Result:** Extending the app mining audit period to the end of the month, payouts are now ~at the end of the month~ 7 days following the start of the audit period. (E.g. for August 2019, payouts will be on the 31st.)
+
+
+
 
 ### May 2019
 
 - Operational Changes:
   - TryMyUI Audiences [#1](https://github.com/blockstack/app-mining/issues/1)  
     - **Result:** App Miners have the option to add product based audience filters to their TryMyUI testing. 
-  - Product Hunt Scoring [106](https://github.com/blockstack/app-mining/issues/106) 
+  - Product Hunt Scoring [#106](https://github.com/blockstack/app-mining/issues/106) 
     - **Result:** Implementing a Decay score for Product Hunt ranking: the new score is your 'total upvotes' score, but with a monthly decay function of 90%. So if you have a total of 100 upvotes, and you launched 1 month ago, you have 90 total upvotes. The final score is total_credible_upvotes*0.9^months_since_launched.
   - Pause Democracy Earth as an App Reviewer [#92](https://github.com/blockstack/app-mining/issues/92) 
     - **Result:** Democracy Earth has been paused as an app reviewer and will not be included in May's ranking or moving forward until further notice.
