@@ -12,6 +12,13 @@ Because App Mining operates in monthly cycles, we have broken down the changelog
 
 ## Changelog by Month
 
+## September 2019 
+- Discussions Finalized:
+
+  - Awario Scoring [#135](https://github.com/blockstack/app-mining/issues/135) 
+      - **Result:** Updated scoring timeline for Awario going forward. Switching to the Blended Awareness model in November based on data from October. For full details, please see [this comment](https://github.com/blockstack/app-mining/issues/135#issuecomment-523136444). 
+
+
 ## August 2019 
 - Operational Changes: 
 
