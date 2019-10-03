@@ -12,6 +12,12 @@ Because App Mining operates in monthly cycles, we have broken down the changelog
 
 ## Changelog by Month
 
+## October 2019 
+- Discussions Finalized: 
+
+- TryMyUI Ranking Methodology[#153](https://github.com/blockstack/app-mining/issues/153):
+     - **Result**: Updated TryMyUI testing: Starting in October, TryMyUI will test apps every other month.  
+
 ## September 2019 
 - Discussions Finalized:
 
