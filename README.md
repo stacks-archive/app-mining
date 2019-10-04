@@ -9,9 +9,11 @@ The App Mining program is in a pilot stage right now. This is the repository for
 
 
 - Visit the [App Mining website](https://app.co/mining)
+- Visit the latest App Mining [results](https://app.co/mining/latest) 
 - Visit the [App Mining documentation](https://docs.blockstack.org/develop/mining_intro.html) 
+- Understand how Apps are [reviewed and scored](https://docs.blockstack.org/develop/app-reviewers.html) 
+- Visit the [App Miner's Guide](https://docs.blockstack.org/community/app-miners-guide.html) 
 - Review the original [launch of the App Mining program](https://blog.blockstack.org/app-mining-game-theory-algorithm-design/)
-- Review the App Mining results for [December 2018](https://app.co/mining/december-2018), [January 2019](https://app.co/mining/january-2019), [February 2019](https://app.co/mining/february-2019), [March 2019](https://app.co/mining/march-2019)
 - Review the [App Mining Changelog](https://github.com/blockstack/app-mining/blob/master/CHANGELOG.md)
 
 Given the early stages of the program, we believe it is best to avoid automating ranking and payment mechanisms until we can validate key assumptions. Instead, we will, as a community, validate assumptions and field-test ranking mechanisms, during the pilot phase, as App Mining evolves.
