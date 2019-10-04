@@ -9,7 +9,7 @@ The App Mining program is in a pilot stage right now. This is the repository for
 
 
 - Visit the [App Mining website](https://app.co/mining)
-- Visit the latest App Mining [results](https://app.co/mining/latest) 
+- View the latest App Mining [results](https://app.co/mining/latest) 
 - Visit the [App Mining documentation](https://docs.blockstack.org/develop/mining_intro.html) 
 - Understand how Apps are [reviewed and scored](https://docs.blockstack.org/develop/app-reviewers.html) 
 - Visit the [App Miner's Guide](https://docs.blockstack.org/community/app-miners-guide.html) 
