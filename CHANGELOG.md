@@ -12,6 +12,13 @@ Because App Mining operates in monthly cycles, we have broken down the changelog
 
 ## Changelog by Month
 
+## November 2019 
+- Discussions Finalized: 
+
+ - Removal of Product Hunt As App Reviewer [#144](https://github.com/blockstack/app-mining/issues/144) 
+      - **Result:** Community consensus to remove Product Hunt as an app reviewer starting in November. For the full discussion, see [this issue](https://github.com/blockstack/app-mining/issues/144). 
+
+
 ## October 2019 
 - Discussions Finalized: 
 
