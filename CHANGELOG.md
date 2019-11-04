@@ -15,14 +15,26 @@ Because App Mining operates in monthly cycles, we have broken down the changelog
 ## November 2019 
 - Discussions Finalized: 
 
- - Removal of Product Hunt As App Reviewer [#144](https://github.com/blockstack/app-mining/issues/144) 
+  - Removal of Product Hunt As App Reviewer [#144](https://github.com/blockstack/app-mining/issues/144) 
       - **Result:** Community consensus to remove Product Hunt as an app reviewer starting in November. For the full discussion, see [this issue](https://github.com/blockstack/app-mining/issues/144). 
+      
+  - More Frequent TryMyUI Tests [#168] (https://github.com/blockstack/app-mining/issues/168)
+    - **Result**: Starting in November, TryMyUI will provide 10 user testing videos to new apps, and 5 user testing videos to  already erolled apps. Apps that are already enrolled will have 75% of their score be from the new video scores, and 25% from a rolled score of previous tests. 
+    
+      
+- Operational Changes:
+   
+   - App Mining Payouts and Tax Implications [#160] (https://github.com/blockstack/app-mining/issues/160)
+     - **Result**: App Mining will payout $400k total, $300k in STX and $100k in BTC for the months of Nov. 2019 through Jan. 2020. 
+    
+   - Audit Period Requests [#158] (https://github.com/blockstack/app-mining/issues/158)
+     - **Result**: Apps will not be re-reviewed by TryMyUI or other app reviewers unless there is something blatantly wrong with the test (e.g. tested the wrong app). Audience preferences will not be countef 
 
 
 ## October 2019 
 - Discussions Finalized: 
 
-- TryMyUI Ranking Methodology[#153](https://github.com/blockstack/app-mining/issues/153)
+  - TryMyUI Ranking Methodology[#153](https://github.com/blockstack/app-mining/issues/153)
      - **Result**: Updated TryMyUI testing: Starting in October, TryMyUI will test apps every other month.  
 
 ## September 2019 
