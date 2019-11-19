@@ -18,7 +18,7 @@ The App Mining program is in a pilot stage right now. This is the repository for
 
 Given the early stages of the program, we believe it is best to avoid automating ranking and payment mechanisms until we can validate key assumptions. Instead, we will, as a community, validate assumptions and field-test ranking mechanisms, during the pilot phase, as App Mining evolves.
 
-The current ranking process requires formalizing relationships with external app reviewers: Currently Product Hunt, Democracy Earth, and TryMyUI. More App Reviewers should be periodically added to further improve the quality of the apps and attract the right kind of use cases to our ecosystem. A mechanism for adding/replacing App Reviewers that creates value and is less labor intensive is an open discussion item.
+The current ranking process requires formalizing relationships with external app reviewers. More App Reviewers should be periodically added to further improve the quality of the apps and attract the right kind of use cases to our ecosystem. A mechanism for adding/replacing App Reviewers that creates value and is less labor intensive is an open discussion item.
 
 The purpose of this repository is to make operational decisions more transparent and involve the Blockstack open-source community in various parts of the process. 
 
