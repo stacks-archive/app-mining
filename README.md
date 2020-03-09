@@ -3,6 +3,8 @@
 
 App Mining represents a new model for incentivizing development of apps, allowing small teams to bootstrap, potentially without relying on ads or venture capital. App Mining gives out developer rewards to high quality applications built on the Blockstack platform. 
 
+**App Mining Has Been Paused. [More info](https://blog.blockstack.org/the-next-phase-of-app-mining/)
+
 Think of it as something similar to an Apple App Store but apps are ranked in a decentralized semi-automatic way. In the long run the goal is to build an App Store with no company like Apple in the middle. Developer rewards are given out monthly based on the app ranking for the month.
 
 The App Mining program is in a pilot stage right now. This is the repository for on-going development of the App Mining program and its associated technologies. Before continuing, we suggest you familiarize yourself with the program:
