@@ -19,6 +19,9 @@ A clear and concise description of the improvement to be made, typically an App 
 **What is the dry run period (if any)**
 Important changes can take effect without dry run period directly at the beginning of the next review period. Changes with uncertain effects can be run in dry run mode for several months.
 
+**What is the impact on the game?**
+Estimate the impact of the change on the game theory behind app mining. Ot state why game theorists need not review this change.
+
 **Describe your long term considerations in proposing this change. Please include the ways you can predict this recommendation could go wrong and possible ways mitigate.**
 A clear and concise description of the thought experiment you’ve gone through to roll this out: please keep in mind it may need to scale and cannot be easily gamed. Please list any remaining open questions to be solved in proposing the change, if any. 
 
